@@ -6,6 +6,8 @@
 * `=` -> `@mixin`
 * `for` -> `@for`
 * `if` -> `@if`
+* `@f` -> `@font-face`
+* `@m` -> `@media`
 
 #Sublime Text 2 Install
 
