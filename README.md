@@ -1,8 +1,6 @@
-*UPDATE: If you use kuroir's SCSS-Package at the latest version you don't have to integrate this Snippets to Sublime Text 2 as they were reintegrated by kuroir!*
-
 This Package contains Snippets for use with SCSS and are forked from kuroir's SCSS-Package.
 
-#Additional SCSS Snippets
+# Additional SCSS Snippets
 
 * `+` -> `@include`
 * `++` -> `@extend`
@@ -12,14 +10,15 @@ This Package contains Snippets for use with SCSS and are forked from kuroir's SC
 * `if` -> `@if`
 * `@f` -> `@font-face`
 * `@m` -> `@media`
+* `@e` -> `@each`
 
-#Sublime Text 2 Install
+# Sublime Text 2 Install
 
-##Installation via Package Control:
+## Installation via Package Control:
 
 Search for "SCSS-Snippets"-Package.
 
-##Manual Installation
+## Manual Installation
 
 Open up Terminal.app and execute these commands:
 

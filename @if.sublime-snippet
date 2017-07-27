@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[@if ${1:conditions} {
+    $0
+}]]></content>
+    <tabTrigger>if</tabTrigger>
+    <scope>source.scss</scope>
+    <description>@if</description>
+</snippet>
+
+
